@@ -12,7 +12,7 @@
 ## Known Bugs
 Currently no bugs have been detected. 
 ## Technologies Used
-Languages used include HTML, CSS and javaScript. Tools used to code is Microsofts Visual studio code.
+Languages used include: HTML, CSS, javaScript, Bootstrap and jQuery. Tools used to code is Microsofts Visual studio code.
 ## Support and contact details
 My contact is alvin47k@gmail.com suppose you come across any challenges or would like to give your feedback and suggestions. 
 ### License
