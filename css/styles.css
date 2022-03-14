@@ -1,0 +1,154 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.jumbotron {
+  align-items: center;
+  background: url(/img/assets/backgrounds/1h_img.jpg) no-repeat center;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+  width: auto;
+  height: 100vh;
+}
+.jumbotron h1 {
+  padding-top: 20%;
+  text-align: center;
+  color: white;
+}
+.jumbotron p {
+  text-align: center;
+  color: white;
+}
+.delani-logo {
+  text-align: center;
+  padding-top: 20%;
+}
+.logo {
+  text-align: center;
+  color: #f1f1f1;
+  font-size: 1cm;
+  font-weight: bold;
+}
+.motto {
+  text-align: center;
+  line-height: 1.6;
+  color: #f1f1f1;
+  font-size: large;
+}
+#scroll {
+  position: relative;
+  text-align: center;
+  padding-top: 15%;
+}
+.container {
+  background: url(img/assets/logo/logo.png);
+}
+.about-h {
+  text-align: center;
+}
+.about {
+  text-align: center;
+  line-height: 1.6;
+  font-size: large;
+}
+.services {
+  background: url(/img/assets/backgrounds/s_image.jpg);
+  color: #f1f1f1;
+  background-size: cover;
+  line-height: 1.6;
+  text-align: center;
+  font-size: large;
+  height: 100%;
+  width: auto;
+}
+.services-h {
+  text-align: center;
+  padding-top: 5%;
+}
+.footer {
+  padding-top: 7%;
+}
+.do-h1 {
+  text-align: center;
+}
+.what-we-do {
+  column-count: 3;
+}
+
+.gallery {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.heading {
+  text-align: center;
+  color: black;
+}
+
+.container {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.box {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.box img {
+  max-width: 95%;
+  max-height: 90%;
+  display: block;
+}
+
+.overlay {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 0.7cm;
+}
+
+.contact {
+  text-align: center;
+  background-image: url(/img/assets/backgrounds/c_image.jpg);
+  color: #f1f1f1;
+}
+::placeholder {
+  color: white;
+  opacity: 1;
+}
+
+#name {
+  background-color: transparent;
+  color: #f1f1f1;
+}
+#email {
+  background-color: transparent;
+  color: #f1f1f1;
+}
+#message {
+  background-color: transparent;
+  color: #f1f1f1;
+}
+
+.social {
+  justify-content: center;
+}
+
+.what-we-do h1 {
+  margin-top: 30px;
+}
+figcaption {
+  margin-top: 20px;
+}
