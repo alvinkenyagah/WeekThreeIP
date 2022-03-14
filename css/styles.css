@@ -8,6 +8,7 @@ body {
 .jumbotron {
   align-items: center;
   background: url(/img/assets/backgrounds/1h_img.jpg) no-repeat center;
+  line-height: 1.6cm;
   background-size: cover;
   position: relative;
   overflow: hidden;
@@ -15,7 +16,7 @@ body {
   height: 100vh;
 }
 .jumbotron h1 {
-  padding-top: 20%;
+  padding-top: 12%;
   text-align: center;
   color: white;
 }
@@ -117,6 +118,7 @@ body {
   font-weight: bold;
   color: white;
   font-size: 0.7cm;
+  background-color: rgba(56, 61, 65, 0.116);
 }
 
 .contact {
