@@ -7,7 +7,7 @@ body {
 }
 .jumbotron {
   align-items: center;
-  background: url(/img/assets/backgrounds/1h_img.jpg) no-repeat center;
+  background: url(img/assets/backgrounds/1h_img.jpg) no-repeat center;
   line-height: 1.6cm;
   background-size: cover;
   position: relative;
