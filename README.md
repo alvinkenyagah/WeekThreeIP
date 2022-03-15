@@ -10,7 +10,7 @@
 * Browser.
 * javaScript allowed to run on the browser. 
 ## Known Bugs
-Currently no bugs have been detected. 
+What we do section is glitchy in some browsers.
 ## Technologies Used
 Languages used include: HTML, CSS, javaScript, Bootstrap and jQuery. Tools used to code is Microsofts Visual studio code.
 ## Support and contact details
