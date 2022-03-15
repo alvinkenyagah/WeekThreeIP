@@ -7,7 +7,7 @@ body {
 }
 .jumbotron {
   align-items: center;
-  background: url(/img/assets/backgrounds/1h_img.jpg) no-repeat center;
+  background: url(img/assets/backgrounds/1h_img.jpg) no-repeat center;
   line-height: 1.6cm;
   background-size: cover;
   position: relative;
@@ -57,7 +57,7 @@ body {
   font-size: large;
 }
 .services {
-  background: url(/img/assets/backgrounds/s_image.jpg);
+  background: url(img/assets/backgrounds/s_image.jpg);
   color: #f1f1f1;
   background-size: cover;
   line-height: 1.6;
@@ -123,7 +123,7 @@ body {
 
 .contact {
   text-align: center;
-  background-image: url(/img/assets/backgrounds/c_image.jpg);
+  background-image: url(img/assets/backgrounds/c_image.jpg);
   color: #f1f1f1;
 }
 ::placeholder {
